@@ -4,3 +4,5 @@ docs/.vuepress/theme/
 docs/.vuepress/dist/
 .temp
 .cache
+.github
+.idea
